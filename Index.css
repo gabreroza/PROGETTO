@@ -1,0 +1,60 @@
+body{
+    background-image: url(immagini/background.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: #25FF00;
+    text-align: center;
+}
+
+
+#pulsanti-container{
+    background-color: #25FF00;
+    height: 35px;
+    width: 85%;
+    margin-left: 65px;
+    text-align: center;
+}
+
+button{
+    margin-top: 6px ;
+
+}
+
+.container{
+    justify-content: center;
+    background-color: black;
+    width: 60%;
+    margin-left: 330px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+li{
+  margin-left: 0px;
+  color: white;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.arancio{
+  background-color: orange;
+  height: 35px;
+  width: 35%;
+}
+
+.verde{
+  background-color: #25FF00;
+  height: 35px;
+  width: 55%;
+}
+
+.rosso{
+  background-color: red;
+  height: 35px;
+  width: 15%;
+}
